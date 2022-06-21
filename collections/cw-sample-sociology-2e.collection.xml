@@ -1,0 +1,42 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11978</md:content-id>
+    <md:title>CW Sample: Sociology 2e</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>984169ea-2e5f-440f-af98-5c7e849b7208</md:uuid>
+<md:slug>cw-sample-sociology-2e</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m52761"/>
+    <col:subcollection>
+      <md:title>An Introduction to Sociology</md:title>
+      <col:content>
+        <col:module document="m52763"/>
+        <col:module document="m52764"/>
+        <col:module document="m52765"/>
+        <col:module document="m52766"/>
+        <col:module document="m52767"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sociological Research</md:title>
+      <col:content>
+        <col:module document="m52768"/>
+        <col:module document="m52769"/>
+        <col:module document="m52770"/>
+        <col:module document="m52771"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Culture</md:title>
+      <col:content>
+        <col:module document="m52777"/>
+        <col:module document="m52783"/>
+        <col:module document="m52787"/>
+        <col:module document="m52793"/>
+        <col:module document="m52796"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
