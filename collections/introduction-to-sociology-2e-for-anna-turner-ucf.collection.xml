@@ -1,0 +1,24 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12021</md:content-id>
+    <md:title>Introduction to Sociology 2e For Anna Turner UCF</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>6c768f84-70d8-439e-a75b-0d15036db3e6</md:uuid>
+<md:slug>introduction-to-sociology-2e-for-anna-turner-ucf</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>An Introduction to Sociology</md:title>
+      <col:content>
+        <col:module document="m52764"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sociological Research</md:title>
+      <col:content>
+        <col:module document="m52769"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
