@@ -1,11 +1,11 @@
 <col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-    <md:content-id>col11440</md:content-id>
-    <md:title>Derived copy of Introduction to Sociology</md:title>
+    <md:content-id>col11522</md:content-id>
+    <md:title>Padilla's Introduction to Sociology</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
-    <md:uuid>ae1e122c-4384-406c-8e21-eb0e5bde517d</md:uuid>
-<md:slug>derived-copy-of-introduction-to-sociology</md:slug>
+    <md:uuid>0f2b0eca-90b7-4dac-b627-843be2799d8f</md:uuid>
+<md:slug>padilla-s-introduction-to-sociology</md:slug>
 </metadata>
   <col:content>
     <col:module document="m43493"/>
@@ -29,13 +29,11 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Socialization</md:title>
+      <md:title>Society and Social Interaction</md:title>
       <col:content>
-        <col:module document="m43027"/>
-        <col:module document="m42830"/>
-        <col:module document="m42821"/>
-        <col:module document="m42825"/>
-        <col:module document="m42829"/>
+        <col:module document="m42986"/>
+        <col:module document="m42814"/>
+        <col:module document="m42817"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
@@ -45,16 +43,20 @@
         <col:module document="m42961"/>
         <col:module document="m42807"/>
         <col:module document="m42810"/>
+        <col:module document="m42837"/>
+        <col:module document="m42838"/>
         <col:module document="m42811"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Society and Social Interaction</md:title>
+      <md:title>Socialization</md:title>
       <col:content>
-        <col:module document="m42986"/>
-        <col:module document="m42814"/>
-        <col:module document="m42817"/>
+        <col:module document="m43027"/>
         <col:module document="m42964"/>
+        <col:module document="m42830"/>
+        <col:module document="m42821"/>
+        <col:module document="m42825"/>
+        <col:module document="m42829"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
@@ -64,16 +66,6 @@
         <col:module document="m42831"/>
         <col:module document="m42832"/>
         <col:module document="m42833"/>
-        <col:subcollection>
-          <md:title>Media and Technology</md:title>
-          <col:content>
-            <col:module document="m43029"/>
-            <col:module document="m42836"/>
-            <col:module document="m42837"/>
-            <col:module document="m43535"/>
-            <col:module document="m42838"/>
-          </col:content>
-        </col:subcollection>
       </col:content>
     </col:subcollection>
     <col:subcollection>
@@ -86,22 +78,23 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Social Stratification in the United States</md:title>
+      <md:title>Social Stratification and Income Inequality</md:title>
       <col:content>
         <col:module document="m42998"/>
         <col:module document="m42965"/>
         <col:module document="m42843"/>
         <col:module document="m42844"/>
+        <col:module document="m42968"/>
         <col:module document="m42845"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Global Inequality</md:title>
+      <md:title>Gender, Sex, and Sexuality</md:title>
       <col:content>
-        <col:module document="m43004"/>
-        <col:module document="m42847"/>
-        <col:module document="m42968"/>
-        <col:module document="m42971"/>
+        <col:module document="m43031"/>
+        <col:module document="m42869"/>
+        <col:module document="m42871"/>
+        <col:module document="m42873"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
@@ -116,22 +109,22 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Gender, Sex, and Sexuality</md:title>
+      <md:title>Work and the Economy</md:title>
       <col:content>
-        <col:module document="m43031"/>
-        <col:module document="m42869"/>
-        <col:module document="m42871"/>
-        <col:module document="m42873"/>
+        <col:module document="m43017"/>
+        <col:module document="m42922"/>
+        <col:module document="m42923"/>
+        <col:module document="m42925"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Aging and the Elderly</md:title>
+      <md:title>Government and Politics</md:title>
       <col:content>
-        <col:module document="m43007"/>
-        <col:module document="m42874"/>
-        <col:module document="m42876"/>
-        <col:module document="m42880"/>
-        <col:module document="m42973"/>
+        <col:module document="m43015"/>
+        <col:module document="m42912"/>
+        <col:module document="m42914"/>
+        <col:module document="m42916"/>
+        <col:module document="m42918"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
@@ -162,42 +155,15 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Government and Politics</md:title>
-      <col:content>
-        <col:module document="m43015"/>
-        <col:module document="m42912"/>
-        <col:module document="m42914"/>
-        <col:module document="m42916"/>
-        <col:module document="m42918"/>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
-      <md:title>Work and the Economy</md:title>
-      <col:content>
-        <col:module document="m43017"/>
-        <col:module document="m42922"/>
-        <col:module document="m42923"/>
-        <col:module document="m42925"/>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
-      <md:title>Health and Medicine</md:title>
+      <md:title>Health, Medicine and the Environment</md:title>
       <col:content>
         <col:module document="m43019"/>
         <col:module document="m42927"/>
         <col:module document="m42929"/>
         <col:module document="m42931"/>
         <col:module document="m42932"/>
-        <col:module document="m42934"/>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
-      <md:title>Population, Urbanization, and the Environment</md:title>
-      <col:content>
-        <col:module document="m43022"/>
-        <col:module document="m42935"/>
-        <col:module document="m42936"/>
         <col:module document="m42937"/>
+        <col:module document="m42934"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
