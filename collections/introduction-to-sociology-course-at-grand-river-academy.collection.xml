@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="David Crowell">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11616</md:content-id>
     <md:title> Introduction to Sociology Course at Grand River Academy</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>0486c7f0-1fac-4af9-83c5-0810f9cfe1b8</md:uuid>
-<md:slug>introduction-to-sociology-course-at-grand-river-academy</md:slug>
-</metadata>
+    <md:slug>introduction-to-sociology-course-at-grand-river-academy</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m43493"/>
     <col:subcollection>
