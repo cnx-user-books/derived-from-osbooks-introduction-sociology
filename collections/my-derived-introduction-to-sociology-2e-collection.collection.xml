@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Jessica Wang">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11933</md:content-id>
     <md:title>My Derived Introduction to Sociology 2e Collection</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>d393e255-30b3-4ba7-bc78-2fd7a4324ec8</md:uuid>
-<md:slug>my-derived-introduction-to-sociology-2e-collection</md:slug>
-</metadata>
+    <md:slug>my-derived-introduction-to-sociology-2e-collection</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m58140"/>
     <col:subcollection>
