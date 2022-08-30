@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="zumi otto">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11442</md:content-id>
     <md:title>Derived copy of Introduction to Sociology</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>a55befcd-4da5-412f-9eed-b9fb6d548769</md:uuid>
-<md:slug>derived-copy-of-introduction-to-sociology</md:slug>
-</metadata>
+    <md:slug>derived-copy-of-introduction-to-sociology</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m43493"/>
     <col:subcollection>
